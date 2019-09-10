@@ -1,0 +1,12 @@
+input{
+	border-radius: 5px;
+	width:;
+}
+#name {
+	border-radius: 5px;
+	display: block;
+	width: 300px;
+}
+select {
+	border-radius: 5px;
+}
